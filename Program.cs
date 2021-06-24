@@ -15,12 +15,8 @@ namespace FirstProj
             {
                 Console.WriteLine(numA + i);  
             } 
-       Program proA = new Program
-       ProA doThat();
+       // roA doThat();
         }
-  void doThat()
-  {
-        Console Writeline(cha
-  }
+ 
     }
 }
